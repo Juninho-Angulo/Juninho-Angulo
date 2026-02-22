@@ -14,7 +14,7 @@ Me chamo  Juninho Jose Angulo Rodriguez , tenho 27 anos e sou natural da venezue
 
    </div>  
   
-  <a href = "juninhoangulo98@.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "emailto:juninhoangulo98@.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juni%C3%B1ho-jose-angulo-rodriguez-b878a031b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
    </div>  
