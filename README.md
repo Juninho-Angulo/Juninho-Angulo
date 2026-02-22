@@ -7,7 +7,7 @@ Me chamo  Juninho Jose Angulo Rodriguez , tenho 27 anos e sou natural da venezue
 ### 🤖 Linguagens e Tecnologias
 
 <div> 
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="juninho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
   ##
